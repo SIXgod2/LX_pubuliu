@@ -19,6 +19,17 @@
 		0BACFC5D18C95EA300F460EF /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0BACFC4518C95EA300F460EF /* UIKit.framework */; };
 		0BACFC6518C95EA300F460EF /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 0BACFC6318C95EA300F460EF /* InfoPlist.strings */; };
 		0BACFC6718C95EA300F460EF /* LX_pubuliuTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 0BACFC6618C95EA300F460EF /* LX_pubuliuTests.m */; };
+		0BACFC7218C95F8200F460EF /* RootViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0BACFC7118C95F8200F460EF /* RootViewController.m */; };
+		0BACFCB318C9C3B800F460EF /* TableCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 0BACFCB218C9C3B800F460EF /* TableCell.m */; };
+		0BACFCBD18C9D85800F460EF /* 1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0BACFCB518C9D85800F460EF /* 1.jpg */; };
+		0BACFCBE18C9D85800F460EF /* 2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0BACFCB618C9D85800F460EF /* 2.jpg */; };
+		0BACFCBF18C9D85800F460EF /* 3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0BACFCB718C9D85800F460EF /* 3.jpg */; };
+		0BACFCC018C9D85800F460EF /* 4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0BACFCB818C9D85800F460EF /* 4.jpg */; };
+		0BACFCC118C9D85800F460EF /* 5.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0BACFCB918C9D85800F460EF /* 5.jpg */; };
+		0BACFCC218C9D85800F460EF /* 6.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0BACFCBA18C9D85800F460EF /* 6.jpg */; };
+		0BACFCC318C9D85800F460EF /* 7.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0BACFCBB18C9D85800F460EF /* 7.jpg */; };
+		0BACFCC418C9D85800F460EF /* 8.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0BACFCBC18C9D85800F460EF /* 8.jpg */; };
+		0BACFCC618C9DBD900F460EF /* 1.png in Resources */ = {isa = PBXBuildFile; fileRef = 0BACFCC518C9DBD900F460EF /* 1.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -48,6 +59,19 @@
 		0BACFC6218C95EA300F460EF /* LX_pubuliuTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "LX_pubuliuTests-Info.plist"; sourceTree = "<group>"; };
 		0BACFC6418C95EA300F460EF /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		0BACFC6618C95EA300F460EF /* LX_pubuliuTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LX_pubuliuTests.m; sourceTree = "<group>"; };
+		0BACFC7018C95F8200F460EF /* RootViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RootViewController.h; sourceTree = "<group>"; };
+		0BACFC7118C95F8200F460EF /* RootViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RootViewController.m; sourceTree = "<group>"; };
+		0BACFCB118C9C3B800F460EF /* TableCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TableCell.h; sourceTree = "<group>"; };
+		0BACFCB218C9C3B800F460EF /* TableCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TableCell.m; sourceTree = "<group>"; };
+		0BACFCB518C9D85800F460EF /* 1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 1.jpg; sourceTree = "<group>"; };
+		0BACFCB618C9D85800F460EF /* 2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 2.jpg; sourceTree = "<group>"; };
+		0BACFCB718C9D85800F460EF /* 3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 3.jpg; sourceTree = "<group>"; };
+		0BACFCB818C9D85800F460EF /* 4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 4.jpg; sourceTree = "<group>"; };
+		0BACFCB918C9D85800F460EF /* 5.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 5.jpg; sourceTree = "<group>"; };
+		0BACFCBA18C9D85800F460EF /* 6.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 6.jpg; sourceTree = "<group>"; };
+		0BACFCBB18C9D85800F460EF /* 7.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 7.jpg; sourceTree = "<group>"; };
+		0BACFCBC18C9D85800F460EF /* 8.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 8.jpg; sourceTree = "<group>"; };
+		0BACFCC518C9DBD900F460EF /* 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -108,7 +132,12 @@
 			isa = PBXGroup;
 			children = (
 				0BACFC5018C95EA300F460EF /* AppDelegate.h */,
+				0BACFCB418C9D85800F460EF /* 图片素材 */,
 				0BACFC5118C95EA300F460EF /* AppDelegate.m */,
+				0BACFC7018C95F8200F460EF /* RootViewController.h */,
+				0BACFC7118C95F8200F460EF /* RootViewController.m */,
+				0BACFCB118C9C3B800F460EF /* TableCell.h */,
+				0BACFCB218C9C3B800F460EF /* TableCell.m */,
 				0BACFC5318C95EA300F460EF /* Images.xcassets */,
 				0BACFC4818C95EA300F460EF /* Supporting Files */,
 			);
@@ -142,6 +171,22 @@
 				0BACFC6318C95EA300F460EF /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		0BACFCB418C9D85800F460EF /* 图片素材 */ = {
+			isa = PBXGroup;
+			children = (
+				0BACFCC518C9DBD900F460EF /* 1.png */,
+				0BACFCB518C9D85800F460EF /* 1.jpg */,
+				0BACFCB618C9D85800F460EF /* 2.jpg */,
+				0BACFCB718C9D85800F460EF /* 3.jpg */,
+				0BACFCB818C9D85800F460EF /* 4.jpg */,
+				0BACFCB918C9D85800F460EF /* 5.jpg */,
+				0BACFCBA18C9D85800F460EF /* 6.jpg */,
+				0BACFCBB18C9D85800F460EF /* 7.jpg */,
+				0BACFCBC18C9D85800F460EF /* 8.jpg */,
+			);
+			path = "图片素材";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -219,7 +264,16 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0BACFCC618C9DBD900F460EF /* 1.png in Resources */,
+				0BACFCC418C9D85800F460EF /* 8.jpg in Resources */,
+				0BACFCC018C9D85800F460EF /* 4.jpg in Resources */,
+				0BACFCBF18C9D85800F460EF /* 3.jpg in Resources */,
+				0BACFCC218C9D85800F460EF /* 6.jpg in Resources */,
+				0BACFCBD18C9D85800F460EF /* 1.jpg in Resources */,
 				0BACFC4C18C95EA300F460EF /* InfoPlist.strings in Resources */,
+				0BACFCC118C9D85800F460EF /* 5.jpg in Resources */,
+				0BACFCC318C9D85800F460EF /* 7.jpg in Resources */,
+				0BACFCBE18C9D85800F460EF /* 2.jpg in Resources */,
 				0BACFC5418C95EA300F460EF /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -241,6 +295,8 @@
 			files = (
 				0BACFC5218C95EA300F460EF /* AppDelegate.m in Sources */,
 				0BACFC4E18C95EA300F460EF /* main.m in Sources */,
+				0BACFCB318C9C3B800F460EF /* TableCell.m in Sources */,
+				0BACFC7218C95F8200F460EF /* RootViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -359,6 +415,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CLANG_ENABLE_OBJC_ARC = YES;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "LX_pubuliu/LX_pubuliu-Prefix.pch";
 				INFOPLIST_FILE = "LX_pubuliu/LX_pubuliu-Info.plist";
@@ -372,6 +429,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CLANG_ENABLE_OBJC_ARC = YES;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "LX_pubuliu/LX_pubuliu-Prefix.pch";
 				INFOPLIST_FILE = "LX_pubuliu/LX_pubuliu-Info.plist";
@@ -441,6 +499,7 @@
 				0BACFC6C18C95EA300F460EF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		0BACFC6D18C95EA300F460EF /* Build configuration list for PBXNativeTarget "LX_pubuliuTests" */ = {
 			isa = XCConfigurationList;
@@ -449,6 +508,7 @@
 				0BACFC6F18C95EA300F460EF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
